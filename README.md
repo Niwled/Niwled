@@ -34,16 +34,22 @@
 
 ---
 
-## 🌀 Missão Atual
-- 🧠 Ensinar máquinas a jogar Pedra, Papel, Tesoura, Lagarto, Spock melhor do que eu  
-- 🧼 Transformar dados caóticos em gráficos bonitos  
-- 📚 Dominar ETL como se fosse feitiçaria de Hogwarts  
-- 🚀 Fazer projetos que misturam ciência de dados e criatividade
+## 🛤️ Minha Jornada em Dados
+
+> “Grandes caminhos começam com pequenos passos — e alguns muitos códigos.” 🧠✨
+
+```mermaid
+timeline
+    title Jornada de Niwled 🚀
+    2025 : 📚 **Ponto de Partida** — Estudando Data Science, mergulhando em Python, bancos de dados e Excel, enquanto busco conhecimento e oportunidades na área.
+    2025 (Próximos 6 meses) : 🧠 **Especialização em Progresso** — Focando em dominar Python para Machine Learning, criar projetos sólidos e conquistar minha primeira oportunidade profissional na área de dados.
+    2026–2027 : 🎯 **Crescimento e Consolidação** — Atuando profissionalmente, expandindo minha experiência prática e evoluindo para me tornar referência no que faço.
+    Futuro : 🌟 **Objetivo Final** — Concluir minha graduação em Data Science e seguir com pós-graduações e especializações em Engenharia de Dados e Machine Learning, sempre buscando excelência e inovação.
 
 ---
 
 ## 🌐 Portais Dimensionais
-[💼 LinkedIn](https://www.linkedin.com/in/seulink) • [🌍 Portfólio](https://seusite.com) • [📧 E-mail](mailto:seuemail@example.com)
+[💼 LinkedIn](https://www.linkedin.com/in/delwinluis) • [📧 E-mail](mailto:delwinlu@gmail.com)
 
 ---
 
