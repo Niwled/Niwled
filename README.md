@@ -6,8 +6,8 @@
 # 🌈 Olá, terráqueo!
 
 
-🐍 Amante de dados, Python e Machine Learning
-🎸 Provavelmente ouvindo Pink Floyd enquanto debugo bugs que eu mesmo criei
+🐍 Amante de dados, Python e Machine Learning.
+🎸 Provavelmente ouvindo Pink Floyd enquanto resolvo os bugs que eu mesmo criei.
 
 ###
 
