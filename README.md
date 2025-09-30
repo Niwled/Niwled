@@ -1,6 +1,6 @@
 <!-- Banner GIF estiloso -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR9O9QpVvv7R0lC/giphy.gif" width="500" alt="Pink Floyd Prism GIF">
+  <img src="[https://media.giphy.com/media/l3vR9O9QpVvv7R0lC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWljamF1aXI1OHc3dXp4aTl6cmMweTI4dm5qcXc3aDE1cDJtMmQweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gox3GChzdpFsuBJUAT/giphy.gif)" width="500" alt="Pink Floyd Prism GIF">
 </p>
 
 # 🌈 Olá, terráqueo! Eu sou o **Niwled** 👽
