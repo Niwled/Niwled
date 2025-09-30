@@ -49,7 +49,7 @@ timeline
 ---
 
 ## 🌐 Portais Dimensionais
-[💼 LinkedIn](https://www.linkedin.com/in/delwinluis) • [📧 E-mail](mailto:delwinlu@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/delwinluis/) • [📧 E-mail](mailto:delwinlu@gmail.com)
 
 ---
 
